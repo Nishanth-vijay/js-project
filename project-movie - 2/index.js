@@ -2,7 +2,8 @@ function getmovie(){
     let inp = document.getElementById("mov")
     let data =inp.value
     console.log(data);
-    
+    let dom = document.getElementById("l12")
+    dom.remove();
     fetchdata(data)
 }
 async function fetchdata(data){
@@ -48,36 +49,10 @@ function moviedetails(data1){
     // let wantToSeeCount = data.movies_shows[0].wantToSeeCount
     // let criticsScore   = data.movies_shows[0].criticsScore
 
-
-
-
-
-
-
-
     data1.data.mainSearch.edges[0].node.entity.principalCredits[0].credits.forEach(actor => {
     if (actor.name.nameText.text) movieactors.push(actor.name.nameText.text);
     if (actor.name.primaryImage?.url) movieactorsimg.push(actor.name.primaryImage.url);
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
