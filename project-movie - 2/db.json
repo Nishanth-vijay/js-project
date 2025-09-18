@@ -1,0 +1,603 @@
+{
+    "data": {
+        "mainSearch": {
+            "edges": [
+                {
+                    "node": {
+                        "entity": {
+                            "__typename": "Title",
+                            "id": "tt27425164",
+                            "titleText": {
+                                "text": "War 2",
+                                "isOriginalTitle": true
+                            },
+                            "originalTitleText": {
+                                "text": "War 2",
+                                "isOriginalTitle": true
+                            },
+                            "releaseYear": {
+                                "__typename": "YearRange",
+                                "year": 2025,
+                                "endYear": null
+                            },
+                            "releaseDate": {
+                                "__typename": "ReleaseDate",
+                                "month": 8,
+                                "day": 14,
+                                "year": 2025,
+                                "country": {
+                                    "id": "US"
+                                },
+                                "restriction": null,
+                                "attributes": [],
+                                "displayableProperty": {
+                                    "qualifiersInMarkdownList": null
+                                }
+                            },
+                            "titleType": {
+                                "__typename": "TitleType",
+                                "id": "movie",
+                                "text": "Movie",
+                                "categories": [
+                                    {
+                                        "id": "movie",
+                                        "text": "Movie",
+                                        "value": "movie"
+                                    }
+                                ],
+                                "canHaveEpisodes": false,
+                                "isEpisode": false,
+                                "isSeries": false,
+                                "displayableProperty": {
+                                    "value": {
+                                        "plainText": ""
+                                    }
+                                }
+                            },
+                            "primaryImage": {
+                                "__typename": "Image",
+                                "id": "rm926923778",
+                                "url": "https://m.media-amazon.com/images/M/MV5BY2U0MGFkNzctOGI5OC00MzhhLWExYTctZjE5YjY3MzcwYjMzXkEyXkFqcGc@._V1_.jpg",
+                                "height": 3000,
+                                "width": 2189
+                            },
+                            "episodes": null,
+                            "series": null,
+                            "principalCredits": [
+                                {
+                                    "credits": [
+                                        {
+                                            "name": {
+                                                "__typename": "Name",
+                                                "id": "nm0004335",
+                                                "nameText": {
+                                                    "text": "Hrithik Roshan"
+                                                },
+                                                "primaryImage": {
+                                                    "__typename": "Image",
+                                                    "id": "rm3921176321",
+                                                    "url": "https://m.media-amazon.com/images/M/MV5BOGNhOTg1Y2UtZDg3ZS00MjNmLTk4MGMtMGE4ZDc2MjRjNDk0XkEyXkFqcGc@._V1_CR306,88,668,1001_.jpg",
+                                                    "height": 1001,
+                                                    "width": 668
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "name": {
+                                                "__typename": "Name",
+                                                "id": "nm1694524",
+                                                "nameText": {
+                                                    "text": "N.T. Rama Rao Jr."
+                                                },
+                                                "primaryImage": {
+                                                    "__typename": "Image",
+                                                    "id": "rm2261182208",
+                                                    "url": "https://m.media-amazon.com/images/M/MV5BMjI0NDQ2MTMzMF5BMl5BanBnXkFtZTgwMzc4MDA3NzE@._V1_.jpg",
+                                                    "height": 960,
+                                                    "width": 691
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "name": {
+                                                "__typename": "Name",
+                                                "id": "nm6442009",
+                                                "nameText": {
+                                                    "text": "Kiara Advani"
+                                                },
+                                                "primaryImage": {
+                                                    "__typename": "Image",
+                                                    "id": "rm2119828737",
+                                                    "url": "https://m.media-amazon.com/images/M/MV5BMGEwOTU4YjQtNzEzZC00OTI3LTllMTItN2YwZDA4YzgzZmYzXkEyXkFqcGc@._V1_.jpg",
+                                                    "height": 4149,
+                                                    "width": 2766
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "entity": {
+                            "__typename": "Title",
+                            "id": "tt13186306",
+                            "titleText": {
+                                "text": "War of the Worlds",
+                                "isOriginalTitle": true
+                            },
+                            "originalTitleText": {
+                                "text": "War of the Worlds",
+                                "isOriginalTitle": true
+                            },
+                            "releaseYear": {
+                                "__typename": "YearRange",
+                                "year": 2025,
+                                "endYear": null
+                            },
+                            "releaseDate": {
+                                "__typename": "ReleaseDate",
+                                "month": 7,
+                                "day": 30,
+                                "year": 2025,
+                                "country": {
+                                    "id": "US"
+                                },
+                                "restriction": null,
+                                "attributes": [
+                                    {
+                                        "id": "internet",
+                                        "text": "internet"
+                                    }
+                                ],
+                                "displayableProperty": {
+                                    "qualifiersInMarkdownList": null
+                                }
+                            },
+                            "titleType": {
+                                "__typename": "TitleType",
+                                "id": "movie",
+                                "text": "Movie",
+                                "categories": [
+                                    {
+                                        "id": "movie",
+                                        "text": "Movie",
+                                        "value": "movie"
+                                    }
+                                ],
+                                "canHaveEpisodes": false,
+                                "isEpisode": false,
+                                "isSeries": false,
+                                "displayableProperty": {
+                                    "value": {
+                                        "plainText": ""
+                                    }
+                                }
+                            },
+                            "primaryImage": {
+                                "__typename": "Image",
+                                "id": "rm3149640450",
+                                "url": "https://m.media-amazon.com/images/M/MV5BOWVlZDUzNTgtYzcxNC00OTYyLThlZjYtZDc1MTM2ZmI1Y2IzXkEyXkFqcGc@._V1_.jpg",
+                                "height": 1500,
+                                "width": 1000
+                            },
+                            "episodes": null,
+                            "series": null,
+                            "principalCredits": [
+                                {
+                                    "credits": [
+                                        {
+                                            "name": {
+                                                "__typename": "Name",
+                                                "id": "nm0001084",
+                                                "nameText": {
+                                                    "text": "Ice Cube"
+                                                },
+                                                "primaryImage": {
+                                                    "__typename": "Image",
+                                                    "id": "rm1664005632",
+                                                    "url": "https://m.media-amazon.com/images/M/MV5BMTYyMTE0NDQwMV5BMl5BanBnXkFtZTcwMDA1NjA1Nw@@._V1_.jpg",
+                                                    "height": 2048,
+                                                    "width": 1329
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "name": {
+                                                "__typename": "Name",
+                                                "id": "nm0519456",
+                                                "nameText": {
+                                                    "text": "Eva Longoria"
+                                                },
+                                                "primaryImage": {
+                                                    "__typename": "Image",
+                                                    "id": "rm404871168",
+                                                    "url": "https://m.media-amazon.com/images/M/MV5BMjI3MTE1NjMwOV5BMl5BanBnXkFtZTgwODg2MzUwMDE@._V1_.jpg",
+                                                    "height": 2048,
+                                                    "width": 1485
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "name": {
+                                                "__typename": "Name",
+                                                "id": "nm7223890",
+                                                "nameText": {
+                                                    "text": "Iman Benson"
+                                                },
+                                                "primaryImage": {
+                                                    "__typename": "Image",
+                                                    "id": "rm1472750849",
+                                                    "url": "https://m.media-amazon.com/images/M/MV5BOWFlYzcyNjYtNmE1Zi00OGUwLWE3MjAtYTM4YzI3MzExYWFhXkEyXkFqcGc@._V1_.jpg",
+                                                    "height": 4000,
+                                                    "width": 2668
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "entity": {
+                            "__typename": "Title",
+                            "id": "tt17279496",
+                            "titleText": {
+                                "text": "Civil War",
+                                "isOriginalTitle": true
+                            },
+                            "originalTitleText": {
+                                "text": "Civil War",
+                                "isOriginalTitle": true
+                            },
+                            "releaseYear": {
+                                "__typename": "YearRange",
+                                "year": 2024,
+                                "endYear": null
+                            },
+                            "releaseDate": {
+                                "__typename": "ReleaseDate",
+                                "month": 4,
+                                "day": 12,
+                                "year": 2024,
+                                "country": {
+                                    "id": "US"
+                                },
+                                "restriction": null,
+                                "attributes": [],
+                                "displayableProperty": {
+                                    "qualifiersInMarkdownList": null
+                                }
+                            },
+                            "titleType": {
+                                "__typename": "TitleType",
+                                "id": "movie",
+                                "text": "Movie",
+                                "categories": [
+                                    {
+                                        "id": "movie",
+                                        "text": "Movie",
+                                        "value": "movie"
+                                    }
+                                ],
+                                "canHaveEpisodes": false,
+                                "isEpisode": false,
+                                "isSeries": false,
+                                "displayableProperty": {
+                                    "value": {
+                                        "plainText": ""
+                                    }
+                                }
+                            },
+                            "primaryImage": {
+                                "__typename": "Image",
+                                "id": "rm1657225473",
+                                "url": "https://m.media-amazon.com/images/M/MV5BYTkzMjc0YzgtY2E0Yi00NDBlLWI0MWUtODY1ZjExMDAyOWZiXkEyXkFqcGc@._V1_.jpg",
+                                "height": 12000,
+                                "width": 8100
+                            },
+                            "episodes": null,
+                            "series": null,
+                            "principalCredits": [
+                                {
+                                    "credits": [
+                                        {
+                                            "name": {
+                                                "__typename": "Name",
+                                                "id": "nm0000379",
+                                                "nameText": {
+                                                    "text": "Kirsten Dunst"
+                                                },
+                                                "primaryImage": {
+                                                    "__typename": "Image",
+                                                    "id": "rm3769549824",
+                                                    "url": "https://m.media-amazon.com/images/M/MV5BMTQ3NzkwNzM1MV5BMl5BanBnXkFtZTgwMzE2MTQ3MjE@._V1_.jpg",
+                                                    "height": 2048,
+                                                    "width": 1540
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "name": {
+                                                "__typename": "Name",
+                                                "id": "nm0609944",
+                                                "nameText": {
+                                                    "text": "Wagner Moura"
+                                                },
+                                                "primaryImage": {
+                                                    "__typename": "Image",
+                                                    "id": "rm2213001217",
+                                                    "url": "https://m.media-amazon.com/images/M/MV5BNzE0YTA3MWEtY2ZiYi00ZDFmLTgyY2QtMTUzZDIwOWU5NGFhXkEyXkFqcGc@._V1_.jpg",
+                                                    "height": 2000,
+                                                    "width": 1600
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "name": {
+                                                "__typename": "Name",
+                                                "id": "nm8314228",
+                                                "nameText": {
+                                                    "text": "Cailee Spaeny"
+                                                },
+                                                "primaryImage": {
+                                                    "__typename": "Image",
+                                                    "id": "rm265256704",
+                                                    "url": "https://m.media-amazon.com/images/M/MV5BMTU1NzA0MjEwNV5BMl5BanBnXkFtZTgwNTE5ODczNjM@._V1_.jpg",
+                                                    "height": 651,
+                                                    "width": 503
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "entity": {
+                            "__typename": "Title",
+                            "id": "tt0076759",
+                            "titleText": {
+                                "text": "Star Wars: Episode IV - A New Hope",
+                                "isOriginalTitle": false
+                            },
+                            "originalTitleText": {
+                                "text": "Star Wars",
+                                "isOriginalTitle": true
+                            },
+                            "releaseYear": {
+                                "__typename": "YearRange",
+                                "year": 1977,
+                                "endYear": null
+                            },
+                            "releaseDate": {
+                                "__typename": "ReleaseDate",
+                                "month": 5,
+                                "day": 25,
+                                "year": 1977,
+                                "country": {
+                                    "id": "US"
+                                },
+                                "restriction": null,
+                                "attributes": [],
+                                "displayableProperty": {
+                                    "qualifiersInMarkdownList": null
+                                }
+                            },
+                            "titleType": {
+                                "__typename": "TitleType",
+                                "id": "movie",
+                                "text": "Movie",
+                                "categories": [
+                                    {
+                                        "id": "movie",
+                                        "text": "Movie",
+                                        "value": "movie"
+                                    }
+                                ],
+                                "canHaveEpisodes": false,
+                                "isEpisode": false,
+                                "isSeries": false,
+                                "displayableProperty": {
+                                    "value": {
+                                        "plainText": ""
+                                    }
+                                }
+                            },
+                            "primaryImage": {
+                                "__typename": "Image",
+                                "id": "rm164871937",
+                                "url": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_.jpg",
+                                "height": 2937,
+                                "width": 1920
+                            },
+                            "episodes": null,
+                            "series": null,
+                            "principalCredits": [
+                                {
+                                    "credits": [
+                                        {
+                                            "name": {
+                                                "__typename": "Name",
+                                                "id": "nm0000434",
+                                                "nameText": {
+                                                    "text": "Mark Hamill"
+                                                },
+                                                "primaryImage": {
+                                                    "__typename": "Image",
+                                                    "id": "rm3046789889",
+                                                    "url": "https://m.media-amazon.com/images/M/MV5BMjZjY2I2NmYtMTMxMC00OTYwLWI0M2UtZWNkYzMyOGNlNmY4XkEyXkFqcGc@._V1_.jpg",
+                                                    "height": 1280,
+                                                    "width": 1005
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "name": {
+                                                "__typename": "Name",
+                                                "id": "nm0000148",
+                                                "nameText": {
+                                                    "text": "Harrison Ford"
+                                                },
+                                                "primaryImage": {
+                                                    "__typename": "Image",
+                                                    "id": "rm2178324224",
+                                                    "url": "https://m.media-amazon.com/images/M/MV5BMTY4Mjg0NjIxOV5BMl5BanBnXkFtZTcwMTM2NTI3MQ@@._V1_.jpg",
+                                                    "height": 400,
+                                                    "width": 269
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "name": {
+                                                "__typename": "Name",
+                                                "id": "nm0000402",
+                                                "nameText": {
+                                                    "text": "Carrie Fisher"
+                                                },
+                                                "primaryImage": {
+                                                    "__typename": "Image",
+                                                    "id": "rm2943966720",
+                                                    "url": "https://m.media-amazon.com/images/M/MV5BMjM3MjI4NTI4MV5BMl5BanBnXkFtZTgwNzgyMzQyNDM@._V1_.jpg",
+                                                    "height": 1363,
+                                                    "width": 2048
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "entity": {
+                            "__typename": "Title",
+                            "id": "tt18312380",
+                            "titleText": {
+                                "text": "Primitive War",
+                                "isOriginalTitle": true
+                            },
+                            "originalTitleText": {
+                                "text": "Primitive War",
+                                "isOriginalTitle": true
+                            },
+                            "releaseYear": {
+                                "__typename": "YearRange",
+                                "year": 2025,
+                                "endYear": null
+                            },
+                            "releaseDate": {
+                                "__typename": "ReleaseDate",
+                                "month": 8,
+                                "day": 21,
+                                "year": 2025,
+                                "country": {
+                                    "id": "AU"
+                                },
+                                "restriction": null,
+                                "attributes": [],
+                                "displayableProperty": {
+                                    "qualifiersInMarkdownList": null
+                                }
+                            },
+                            "titleType": {
+                                "__typename": "TitleType",
+                                "id": "movie",
+                                "text": "Movie",
+                                "categories": [
+                                    {
+                                        "id": "movie",
+                                        "text": "Movie",
+                                        "value": "movie"
+                                    }
+                                ],
+                                "canHaveEpisodes": false,
+                                "isEpisode": false,
+                                "isSeries": false,
+                                "displayableProperty": {
+                                    "value": {
+                                        "plainText": ""
+                                    }
+                                }
+                            },
+                            "primaryImage": {
+                                "__typename": "Image",
+                                "id": "rm1705537281",
+                                "url": "https://m.media-amazon.com/images/M/MV5BZTk4OTlmZDQtYjM2ZC00ZTg3LThlYzItNzk1YjVmYTlkNGUwXkEyXkFqcGc@._V1_.jpg",
+                                "height": 4921,
+                                "width": 3240
+                            },
+                            "episodes": null,
+                            "series": null,
+                            "principalCredits": [
+                                {
+                                    "credits": [
+                                        {
+                                            "name": {
+                                                "__typename": "Name",
+                                                "id": "nm0477127",
+                                                "nameText": {
+                                                    "text": "Ryan Kwanten"
+                                                },
+                                                "primaryImage": {
+                                                    "__typename": "Image",
+                                                    "id": "rm1682359297",
+                                                    "url": "https://m.media-amazon.com/images/M/MV5BYmQ4ZGU2NjYtMDEwOC00MzZmLWIzMjEtODU1YzI5MDczM2IwXkEyXkFqcGc@._V1_.jpg",
+                                                    "height": 3072,
+                                                    "width": 2187
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "name": {
+                                                "__typename": "Name",
+                                                "id": "nm1065454",
+                                                "nameText": {
+                                                    "text": "Tricia Helfer"
+                                                },
+                                                "primaryImage": {
+                                                    "__typename": "Image",
+                                                    "id": "rm973190146",
+                                                    "url": "https://m.media-amazon.com/images/M/MV5BOTZkZjAwMjQtOGQ0Mi00ODAzLThiMmUtMTM1MzZlMDk0MGM3XkEyXkFqcGc@._V1_.jpg",
+                                                    "height": 3733,
+                                                    "width": 2800
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "name": {
+                                                "__typename": "Name",
+                                                "id": "nm0917060",
+                                                "nameText": {
+                                                    "text": "Nick Wechsler"
+                                                },
+                                                "primaryImage": {
+                                                    "__typename": "Image",
+                                                    "id": "rm2537008896",
+                                                    "url": "https://m.media-amazon.com/images/M/MV5BMzY1OTYyNjgyOF5BMl5BanBnXkFtZTcwMDQxMzM3OA@@._V1_.jpg",
+                                                    "height": 2048,
+                                                    "width": 1397
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
