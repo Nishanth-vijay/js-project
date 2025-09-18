@@ -114,7 +114,7 @@ let div1 = document.getElementById("div1")
 div1.innerHTML=""
 let img = document.createElement("img")
 img.src= imageurl
-// div1.appendChild(img)
+div1.appendChild(img)
 
 let div2 = document.getElementById("div2")
 div2.innerHTML=`
