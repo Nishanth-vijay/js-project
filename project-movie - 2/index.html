@@ -4,45 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <style>
-        img{
-            width: 60%;
-            height: 40%;
-            padding-left:25% ;
-        }
-        #div4 {
-            /* border: 2px solid; */
-        display: flex;
-        justify-content: space-around;
-        /* padding: 20px; */
-        
-    }
-   #div3{
-    border: 2px solid;
-    display: flex; 
-      flex-wrap: wrap;    
-   }
-#div3 img {
-    padding: 1%;
-    width: 90%;
-    height: 80%;
-}
 
-#div3>div{
-  flex: 1 1 200px; 
-            border: 2px solid;
-        } 
-        a{
-            /* border: 2px solid; */
-             text-decoration: none;
-             padding: 2%;
-        }
-    </style>
+    <link rel="stylesheet" href="index.css">
 </head>
 <body>
-    <label for="mov"><h1>Enter Movie</h1></label>
-    <input type="text" name="movie" id="mov">
+    <div id="l12">
+    <label for="mov"><h1>Enter Movie Name</h1></label>
+    <input type="text" placeholder="Enter here" name="movie" id="mov"> <br>
     <button type="submit" onclick="getmovie()"> submit</button>
+   </div>
    
     <!-- <img src="" alt=""> -->
      <div id="div1" ></div> 
