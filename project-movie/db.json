@@ -1,0 +1,978 @@
+{"movies_shows": [
+        {
+            "_highlightResult": {
+                "castCrew": {
+                    "cast": [
+                        {
+                            "matchLevel": "none",
+                            "matchedWords": [],
+                            "value": "Hrithik Roshan"
+                        },
+                        {
+                            "matchLevel": "none",
+                            "matchedWords": [],
+                            "value": "N.T.R."
+                        },
+                        {
+                            "matchLevel": "none",
+                            "matchedWords": [],
+                            "value": "Kiara Advani"
+                        },
+                        {
+                            "matchLevel": "none",
+                            "matchedWords": [],
+                            "value": "Ashutosh Rana"
+                        },
+                        {
+                            "matchLevel": "none",
+                            "matchedWords": [],
+                            "value": "Anil Kapoor"
+                        }
+                    ],
+                    "crew": {
+                        "Director": [
+                            {
+                                "matchLevel": "none",
+                                "matchedWords": [],
+                                "value": "Ayan Mukherjee"
+                            }
+                        ]
+                    }
+                },
+                "genres": [
+                    {
+                        "matchLevel": "none",
+                        "matchedWords": [],
+                        "value": "Action"
+                    },
+                    {
+                        "matchLevel": "none",
+                        "matchedWords": [],
+                        "value": "Mystery & Thriller"
+                    }
+                ],
+                "title": {
+                    "fullyHighlighted": true,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "war2"
+                    ],
+                    "value": "<em>War 2</em>"
+                },
+                "vanity": {
+                    "fullyHighlighted": true,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "war2"
+                    ],
+                    "value": "<em>war_2</em>"
+                }
+            },
+            "cast": [
+                {
+                    "emsId": "e82ab5d8-acec-3cff-a5d5-62f2efdc9d03",
+                    "name": "Hrithik Roshan",
+                    "personId": "238324",
+                    "role": "Actor"
+                },
+                {
+                    "emsId": "1177754e-7c65-379c-aca1-af31c0ac3fd8",
+                    "name": "NTR",
+                    "personId": "507825",
+                    "role": "Actor"
+                },
+                {
+                    "emsId": "3a7187fc-f12a-3675-a8b0-ed77509e469f",
+                    "name": "Kiara Advani",
+                    "personId": "828204",
+                    "role": "Actor"
+                },
+                {
+                    "emsId": "b2e07363-0442-39ea-ae4c-8a7e7ecab4e7",
+                    "name": "Ashutosh Rana",
+                    "personId": "171286",
+                    "role": "Actor"
+                },
+                {
+                    "emsId": "6334bb76-d992-3270-8380-5928ebfff38d",
+                    "name": "Anil Kapoor",
+                    "personId": "152453",
+                    "role": "Actor"
+                },
+                {
+                    "emsId": "1719263e-af8d-3b9c-a542-2ff6339121ea",
+                    "name": "Varun Badola",
+                    "personId": "562191",
+                    "role": "Actor"
+                },
+                {
+                    "emsId": "19172078-fdea-3f10-972d-dab97e701019",
+                    "name": "Arista Mehta",
+                    "personId": "2152749",
+                    "role": "Actor"
+                },
+                {
+                    "emsId": "4e25b907-77d7-304a-84a4-c236cc604203",
+                    "name": "K.C. Shankar",
+                    "personId": "906431",
+                    "role": "Actor"
+                }
+            ],
+            "castCrew": {
+                "cast": [
+                    "Hrithik Roshan",
+                    "N.T.R.",
+                    "Kiara Advani",
+                    "Ashutosh Rana",
+                    "Anil Kapoor"
+                ],
+                "crew": {
+                    "Cinematography": [
+                        "Benjamin Jasper"
+                    ],
+                    "Director": [
+                        "Ayan Mukherjee"
+                    ],
+                    "Executive Producer": [
+                        "Sanjay Shivalkar"
+                    ],
+                    "Producer": [
+                        "Aditya Chopra"
+                    ],
+                    "Screenwriter": [
+                        "Shridhar Raghavan"
+                    ]
+                }
+            },
+            "crew": [
+                {
+                    "emsId": "e0e2b58d-645a-3e3c-8c17-7bb8a15923ab",
+                    "name": "Ayan Mukerji",
+                    "personId": "718798",
+                    "role": "Director"
+                },
+                {
+                    "emsId": "0862bdb7-c468-3a0f-a2a5-24dac198bf79",
+                    "name": "Shridhar Raghavan",
+                    "personId": "488506",
+                    "role": "Screenwriter"
+                },
+                {
+                    "emsId": "d01daa4c-07d7-31c0-a6bf-1c921f7ca15e",
+                    "name": "Aditya Chopra",
+                    "personId": "271029",
+                    "role": "Producer"
+                },
+                {
+                    "emsId": "32307357-2cd8-3f56-9907-b19a5c5d420e",
+                    "name": "Sanjay Shivalkar",
+                    "personId": "554383",
+                    "role": "Executive Producer"
+                },
+                {
+                    "emsId": "fd986347-6a6f-327a-a0d9-2791108419cb",
+                    "name": "Benjamin Jasper",
+                    "personId": "2112647",
+                    "role": "Cinematography"
+                },
+                {
+                    "emsId": "ba582bc9-cb8b-350e-b5ba-94bab52a38d7",
+                    "name": "Aarif Sheikh",
+                    "personId": "525262",
+                    "role": "Film Editing"
+                },
+                {
+                    "emsId": "8577a9f1-d03a-3353-86b9-469e853b0b63",
+                    "name": "Pritam",
+                    "personId": "504664",
+                    "role": "Original Music"
+                },
+                {
+                    "emsId": "57a47ff5-8e2a-31af-ade3-aa95628f8501",
+                    "name": "Amrita Mahal",
+                    "personId": "600245",
+                    "role": "Production Design"
+                },
+                {
+                    "emsId": "e5b622ed-f3f8-3fdc-9ac6-73c8ea087048",
+                    "name": "Rajat Poddar",
+                    "personId": "600244",
+                    "role": "Production Design"
+                },
+                {
+                    "emsId": "8bb4c7fe-3eb0-3a7a-8ab9-53baeabb67bf",
+                    "name": "Kailash Sahu",
+                    "personId": "1913785",
+                    "role": "Art Director"
+                },
+                {
+                    "emsId": "8fdc82cc-4761-38da-8eb0-8846a81880a8",
+                    "name": "Niharika Jolly",
+                    "personId": "909742",
+                    "role": "Costume Design"
+                },
+                {
+                    "emsId": "153c7ef3-32e5-3a14-96e6-bb2a624ffa76",
+                    "name": "Anaita Shroff",
+                    "personId": "795593",
+                    "role": "Costume Design"
+                },
+                {
+                    "emsId": "1cb42212-b170-3597-801e-387811558486",
+                    "name": "Shanoo Sharma",
+                    "personId": "559498",
+                    "role": "Casting"
+                }
+            ],
+            "description": "Years ago Agent Kabir went rogue. Became India's greatest villain ever. But this time, as he descends further into the deepest shadows... India sends its deadliest, most lethal agent after him. A Special Units Officer who is more than Kabir's equal -- absolutely nuclear! Agent Vikram. A relentless terminator driven by his own demons, determined to put a bullet into Kabir's skull. A brutal cat versus rottweiler game begins as the two face off -- the entire world is their brutal bloody battleground. The choices ahead of them are impossible. The price to be paid is ultimate. This is a war with spectacular action and heart-wrenching emotion.",
+            "emsId": "2706265d-aced-31cd-a732-76c7a791e247",
+            "emsVersionId": "b643c2dd-bf46-32e3-86f1-09b7f52ff7da",
+            "genres": [
+                "Action",
+                "Mystery & Thriller"
+            ],
+            "isEmsSearchable": 1,
+            "objectID": "b643c2dd-bf46-32e3-86f1-09b7f52ff7da",
+            "pageViews_popularity": 637,
+            "posterImageUrl": "https://resizing.flixster.com/P4vH3KvyCtipyc0u77-Y6udsGNY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhhZTRkNTUzLThlZDgtNGM1MS1hMzUwLTQxZjg4OWFkYzM1Yy5qcGc=",
+            "promotion": 0,
+            "releaseYear": 2025,
+            "rottenTomatoes": {
+                "audienceIconUrl": "https://content6.flixster.com/static/images/rt-icons/red_popcorn.png",
+                "audienceScore": 67,
+                "certifiedFresh": false,
+                "criticsIconUrl": "https://content6.flixster.com/static/images/rt-icons/rotten.png",
+                "criticsScore": 27,
+                "scoreSentiment": "POSITIVE",
+                "verifiedHot": false,
+                "wantToSeeCount": 58
+            },
+            "rtId": 900096420,
+            "runTime": 170,
+            "title": "War 2",
+            "titleType": "main",
+            "titles": [
+                "War 2"
+            ],
+            "tmsId": "MV026037530000",
+            "trailer": {
+                "mpxId": "2428900419646",
+                "publicId": "Ks_EQJEivtyq",
+                "runTime": 94.136,
+                "thumbnailUrl": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/92/971/thumb_B5F93152-1FFC-4070-8DAC-BCA57EDD2940.jpg",
+                "title": "War 2: Trailer 1"
+            },
+            "type": "movie",
+            "typeId": 1,
+            "updateDate": "2025-09-18T01:35:13.123Z",
+            "vanity": "war_2"
+        },
+        {
+            "_highlightResult": {
+                "aka": [
+                    {
+                        "matchLevel": "none",
+                        "matchedWords": [],
+                        "value": "Cold War II"
+                    },
+                    {
+                        "matchLevel": "none",
+                        "matchedWords": [],
+                        "value": "Guerra Fria II"
+                    },
+                    {
+                        "matchLevel": "none",
+                        "matchedWords": [],
+                        "value": "Guerra Fría 2"
+                    }
+                ],
+                "castCrew": {
+                    "cast": [
+                        {
+                            "matchLevel": "none",
+                            "matchedWords": [],
+                            "value": "Aaron Kwok"
+                        },
+                        {
+                            "matchLevel": "none",
+                            "matchedWords": [],
+                            "value": "Tony Ka Fai Leung"
+                        },
+                        {
+                            "matchLevel": "none",
+                            "matchedWords": [],
+                            "value": "Chow Yun-Fat"
+                        },
+                        {
+                            "matchLevel": "none",
+                            "matchedWords": [],
+                            "value": "Charlie Young"
+                        },
+                        {
+                            "matchLevel": "none",
+                            "matchedWords": [],
+                            "value": "Eddie Peng"
+                        }
+                    ],
+                    "crew": {
+                        "Director": [
+                            {
+                                "matchLevel": "none",
+                                "matchedWords": [],
+                                "value": "Longmond Leung Lok-Man"
+                            },
+                            {
+                                "matchLevel": "none",
+                                "matchedWords": [],
+                                "value": "Sunny Luk Kim-Ching"
+                            }
+                        ]
+                    }
+                },
+                "genres": [
+                    {
+                        "matchLevel": "none",
+                        "matchedWords": [],
+                        "value": "Action"
+                    },
+                    {
+                        "matchLevel": "none",
+                        "matchedWords": [],
+                        "value": "Crime"
+                    },
+                    {
+                        "matchLevel": "none",
+                        "matchedWords": [],
+                        "value": "Drama"
+                    }
+                ],
+                "studios": [
+                    {
+                        "matchLevel": "none",
+                        "matchedWords": [],
+                        "value": "Well Go USA"
+                    }
+                ],
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "war2"
+                    ],
+                    "value": "Cold <em>War 2</em>"
+                },
+                "vanity": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "war2"
+                    ],
+                    "value": "cold_<em>war_2</em>"
+                }
+            },
+            "aka": [
+                "Cold War II",
+                "Guerra Fria II",
+                "Guerra Fría 2"
+            ],
+            "cast": [
+                {
+                    "emsId": "a20c830a-efe4-394c-aca7-1bc9a9334c02",
+                    "name": "Aaron Kwok",
+                    "personId": "73571",
+                    "role": "Actor"
+                },
+                {
+                    "emsId": "8619c2ae-9d7d-3759-87d8-9be4268762fa",
+                    "name": "Tony Ka Fai Leung",
+                    "personId": "290218",
+                    "role": "Actor"
+                },
+                {
+                    "emsId": "94ff14ad-1bdf-3ca2-af9b-e65862bb18e0",
+                    "name": "Yun-Fat Chow",
+                    "personId": "12284",
+                    "role": "Actor"
+                },
+                {
+                    "emsId": "2f722a94-ca3b-3f69-a410-bcdce0ff520f",
+                    "name": "Charlie Yeung",
+                    "personId": "85433",
+                    "role": "Actor"
+                },
+                {
+                    "emsId": "f89c978c-5091-3b80-aefc-93b300da7240",
+                    "name": "Eddie Peng",
+                    "personId": "515439",
+                    "role": "Actor"
+                },
+                {
+                    "emsId": "417156b1-5d09-3538-b01d-176558dee618",
+                    "name": "Aarif Rahman",
+                    "personId": "630005",
+                    "role": "Actor"
+                },
+                {
+                    "emsId": "779222fb-0703-3c4a-be33-92aa85ecadb4",
+                    "name": "Yili Ma",
+                    "personId": "503124",
+                    "role": "Actor"
+                },
+                {
+                    "emsId": "6f622f26-bafe-3fdc-ade7-9223d070011a",
+                    "name": "Matt Totty",
+                    "personId": "806159",
+                    "role": "Actor"
+                }
+            ],
+            "castCrew": {
+                "cast": [
+                    "Aaron Kwok",
+                    "Tony Ka Fai Leung",
+                    "Chow Yun-Fat",
+                    "Charlie Young",
+                    "Eddie Peng"
+                ],
+                "crew": {
+                    "Cinematography": [
+                        "Jason Kwan Chi-Yiu"
+                    ],
+                    "Director": [
+                        "Longmond Leung Lok-Man",
+                        "Sunny Luk Kim-Ching"
+                    ],
+                    "Screenwriter": [
+                        "Sunny Luk Kim-Ching",
+                        "Longmond Leung Lok-Man"
+                    ]
+                }
+            },
+            "crew": [
+                {
+                    "emsId": "9a82cb8f-edb6-3481-98f2-078dabe052f9",
+                    "name": "Lok Man Leung",
+                    "personId": "618885",
+                    "role": "Director"
+                },
+                {
+                    "emsId": "3af2f93c-96ef-3fe0-aec9-09a9156fd6b6",
+                    "name": "Kim-ching Luk",
+                    "personId": "951170",
+                    "role": "Director"
+                },
+                {
+                    "emsId": "3af2f93c-96ef-3fe0-aec9-09a9156fd6b6",
+                    "name": "Kim-ching Luk",
+                    "personId": "951170",
+                    "role": "Screenwriter"
+                },
+                {
+                    "emsId": "9a82cb8f-edb6-3481-98f2-078dabe052f9",
+                    "name": "Lok Man Leung",
+                    "personId": "618885",
+                    "role": "Screenwriter"
+                },
+                {
+                    "emsId": "2a185f86-0deb-30e7-88d6-7c6ca3984fed",
+                    "name": "Jason Kwan",
+                    "personId": "660623",
+                    "role": "Cinematography"
+                },
+                {
+                    "emsId": "fa3aa74e-0406-3487-be89-564de8b2db3e",
+                    "name": "Ivy Ho",
+                    "personId": "275170",
+                    "role": "Producer"
+                },
+                {
+                    "emsId": "6688fb8a-dc13-3287-8bdd-4516cf3e84ca",
+                    "name": "William Kong",
+                    "personId": "471370",
+                    "role": "Producer"
+                },
+                {
+                    "emsId": "b2b9f310-c930-397c-881f-f61fe8c44519",
+                    "name": "Greg Basser",
+                    "personId": "902016",
+                    "role": "Executive Producer"
+                },
+                {
+                    "emsId": "21062928-5725-3ff3-8f88-cc7e19727ee9",
+                    "name": "Ron Chan",
+                    "personId": "951199",
+                    "role": "Film Editing"
+                },
+                {
+                    "emsId": "a642416e-7776-3af0-a3d4-37ac78c12e6b",
+                    "name": "Jordan Goldman",
+                    "personId": "716865",
+                    "role": "Film Editing"
+                },
+                {
+                    "emsId": "6d9b450d-f517-32b7-8081-211b8c81a7a0",
+                    "name": "Peter Kam",
+                    "personId": "459218",
+                    "role": "Original Music"
+                },
+                {
+                    "emsId": "aa513f4d-f82f-3d25-8e84-e4fc52657507",
+                    "name": "Alex Mok",
+                    "personId": "549752",
+                    "role": "Art Director"
+                },
+                {
+                    "emsId": "c217911c-a101-3c5a-aa44-10d598a1f58d",
+                    "name": "Stephanie Wong",
+                    "personId": "498752",
+                    "role": "Costume Design"
+                }
+            ],
+            "description": "After the end of Cold War mission, a new incident is happened at Hong Kong. However, cops cannot catch the killer and the police suspects each other in the organization.",
+            "emsId": "20058f7b-378a-39a9-ab9a-14bb2703e935",
+            "emsVersionId": "6dca2ec1-aada-3823-b065-1fc32a52335d",
+            "genres": [
+                "Action",
+                "Crime",
+                "Drama"
+            ],
+            "isEmsSearchable": 1,
+            "objectID": "6dca2ec1-aada-3823-b065-1fc32a52335d",
+            "pageViews_popularity": 11,
+            "posterImageUrl": "https://resizing.flixster.com/nlymXnjdADk6wrmf-FvbujOUgGo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M3MjAyZmZlLTM1N2UtNDk1OS04OGI4LTk4MTkxOGU1ZWZlYS53ZWJw",
+            "promotion": 0,
+            "releaseYear": 2016,
+            "rottenTomatoes": {
+                "audienceIconUrl": "https://content6.flixster.com/static/images/rt-icons/green_popcorn.png",
+                "audienceScore": 57,
+                "certifiedFresh": false,
+                "criticsIconUrl": "https://content6.flixster.com/static/images/rt-icons/fresh.png",
+                "criticsScore": 60,
+                "scoreSentiment": "NEGATIVE",
+                "verifiedHot": false,
+                "wantToSeeCount": 196
+            },
+            "rtId": 771445042,
+            "runTime": 114,
+            "studios": [
+                "Well Go USA"
+            ],
+            "title": "Cold War 2",
+            "titleType": "main",
+            "titles": [
+                "Cold War 2"
+            ],
+            "tmsId": "MV009025030000",
+            "trailer": {
+                "mpxId": "725966915691",
+                "publicId": "2fp6haDv0280",
+                "runTime": 88.83,
+                "thumbnailUrl": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/113/3/ColdWar2_Trailer2.jpg",
+                "title": "Cold War II: Trailer 2"
+            },
+            "type": "movie",
+            "typeId": 1,
+            "updateDate": "2025-09-17T21:10:49.809Z",
+            "vanity": "cold_war_2"
+        },
+        {
+            "_highlightResult": {
+                "aka": [
+                    {
+                        "fullyHighlighted": false,
+                        "matchLevel": "full",
+                        "matchedWords": [
+                            "war2"
+                        ],
+                        "value": "God of <em>War 2</em>"
+                    }
+                ],
+                "genres": [
+                    {
+                        "matchLevel": "none",
+                        "matchedWords": [],
+                        "value": "Action"
+                    },
+                    {
+                        "matchLevel": "none",
+                        "matchedWords": [],
+                        "value": "Adventure"
+                    }
+                ],
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "war2"
+                    ],
+                    "value": "God of <em>War 2</em>"
+                },
+                "vanity": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "war2"
+                    ],
+                    "value": "god_of_<em>war_2</em>"
+                }
+            },
+            "aka": [
+                "God of War 2"
+            ],
+            "emsId": "ee798283-bf9c-34b8-af01-a2dd6fe61327",
+            "emsVersionId": "53d04e61-8930-3ff7-bc94-e8efe033bbbe",
+            "genres": [
+                "Action",
+                "Adventure"
+            ],
+            "isEmsSearchable": 1,
+            "objectID": "53d04e61-8930-3ff7-bc94-e8efe033bbbe",
+            "pageViews_popularity": 1,
+            "promotion": 0,
+            "releaseYear": 2018,
+            "rtId": 900100613,
+            "runTime": 100,
+            "title": "God of War 2",
+            "titleType": "aka",
+            "titles": [
+                "God of War 2",
+                "War 2"
+            ],
+            "tmsId": "MV017747370000",
+            "type": "movie",
+            "typeId": 1,
+            "updateDate": "2025-09-17T21:32:19.549Z",
+            "vanity": "god_of_war_2"
+        },
+        {
+            "_highlightResult": {
+                "castCrew": {
+                    "cast": [
+                        {
+                            "matchLevel": "none",
+                            "matchedWords": [],
+                            "value": "Kevin Booth"
+                        }
+                    ],
+                    "crew": {
+                        "Director": [
+                            {
+                                "matchLevel": "none",
+                                "matchedWords": [],
+                                "value": "Kevin Booth"
+                            }
+                        ]
+                    }
+                },
+                "genres": [
+                    {
+                        "matchLevel": "none",
+                        "matchedWords": [],
+                        "value": "Documentary"
+                    }
+                ],
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "war2"
+                    ],
+                    "value": "American Drug <em>War 2</em>: Cannabis Destiny"
+                },
+                "vanity": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "war2"
+                    ],
+                    "value": "american_drug_<em>war_2</em>_cannabis_destiny_2013"
+                }
+            },
+            "cast": [
+                {
+                    "emsId": "17167d33-92e6-3df1-847f-a886f3cd59bb",
+                    "name": "Kevin Booth",
+                    "personId": "514243",
+                    "role": "Narrator"
+                }
+            ],
+            "castCrew": {
+                "cast": [
+                    "Kevin Booth"
+                ],
+                "crew": {
+                    "Cinematography": [
+                        "Kevin Booth"
+                    ],
+                    "Director": [
+                        "Kevin Booth"
+                    ],
+                    "Film Editing": [
+                        "Kevin Booth"
+                    ],
+                    "Original Music": [
+                        "Kevin Booth"
+                    ],
+                    "Producer": [
+                        "Kevin Booth",
+                        "Christine Gregory Campos",
+                        "Vaedynn Erlandson"
+                    ],
+                    "Screenwriter": [
+                        "Kevin Booth"
+                    ]
+                }
+            },
+            "crew": [
+                {
+                    "emsId": "17167d33-92e6-3df1-847f-a886f3cd59bb",
+                    "name": "Kevin Booth",
+                    "personId": "514243",
+                    "role": "Director"
+                },
+                {
+                    "emsId": "17167d33-92e6-3df1-847f-a886f3cd59bb",
+                    "name": "Kevin Booth",
+                    "personId": "514243",
+                    "role": "Screenwriter"
+                },
+                {
+                    "emsId": "17167d33-92e6-3df1-847f-a886f3cd59bb",
+                    "name": "Kevin Booth",
+                    "personId": "514243",
+                    "role": "Producer"
+                },
+                {
+                    "emsId": "2cb56586-ab7e-307d-8d83-a954f8c725c2",
+                    "name": "Christine Gregory Campos",
+                    "personId": "712997",
+                    "role": "Producer"
+                },
+                {
+                    "emsId": "8bad7ae6-ffa6-36c7-b589-cec764862a6f",
+                    "name": "Vaedynn Erlandson",
+                    "personId": "712996",
+                    "role": "Producer"
+                },
+                {
+                    "emsId": "e10a3fd1-ec9a-3f63-a301-54adba58966e",
+                    "name": "Julia Johnson",
+                    "personId": "712995",
+                    "role": "Producer"
+                },
+                {
+                    "emsId": "bbbcd91b-8c66-364b-a23f-8a291aa4eac0",
+                    "name": "Brian Patterson",
+                    "personId": "289722",
+                    "role": "Executive Producer"
+                },
+                {
+                    "emsId": "54c64ad5-bc1d-3fc0-bf4f-93f592a51d78",
+                    "name": "Raymond C. Dabney",
+                    "personId": "712998",
+                    "role": "Executive Producer"
+                },
+                {
+                    "emsId": "17167d33-92e6-3df1-847f-a886f3cd59bb",
+                    "name": "Kevin Booth",
+                    "personId": "514243",
+                    "role": "Original Music"
+                },
+                {
+                    "emsId": "534f1c41-dc78-3fe7-b75e-ecdebe998806",
+                    "name": "Lili Haydn",
+                    "personId": "220927",
+                    "role": "Original Music"
+                },
+                {
+                    "emsId": "b1a202e8-46e7-3e86-b4f2-6499299eca1f",
+                    "name": "James Hyland",
+                    "personId": "451324",
+                    "role": "Original Music"
+                },
+                {
+                    "emsId": "e2f22607-dd45-3351-b55c-b873c2592f29",
+                    "name": "Itai Disraeli",
+                    "personId": "712999",
+                    "role": "Original Music"
+                },
+                {
+                    "emsId": "17167d33-92e6-3df1-847f-a886f3cd59bb",
+                    "name": "Kevin Booth",
+                    "personId": "514243",
+                    "role": "Cinematography"
+                },
+                {
+                    "emsId": "bbbcd91b-8c66-364b-a23f-8a291aa4eac0",
+                    "name": "Brian Patterson",
+                    "personId": "289722",
+                    "role": "Cinematography"
+                },
+                {
+                    "emsId": "32a4c5cc-fe9d-3826-80fe-7ce35deac5b2",
+                    "name": "Brent Renaud",
+                    "personId": "537087",
+                    "role": "Cinematography"
+                },
+                {
+                    "emsId": "1fd09711-0305-36c1-94d2-36406f4b068c",
+                    "name": "Armando Koghan",
+                    "personId": "713000",
+                    "role": "Cinematography"
+                },
+                {
+                    "emsId": "17167d33-92e6-3df1-847f-a886f3cd59bb",
+                    "name": "Kevin Booth",
+                    "personId": "514243",
+                    "role": "Film Editing"
+                }
+            ],
+            "description": "Filmmaker Kevin Booth becomes a foster parent to a child on powerful mind-altering drugs while navigating the cutting edge of cannabis research.",
+            "emsId": "5fe4f75b-8acd-375d-b604-3088e172fb98",
+            "emsVersionId": "9cfe6a80-7d68-3c24-be5c-1e4a518746ad",
+            "genres": [
+                "Documentary"
+            ],
+            "isEmsSearchable": 1,
+            "objectID": "9cfe6a80-7d68-3c24-be5c-1e4a518746ad",
+            "pageViews_popularity": 1,
+            "posterImageUrl": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9924501_p_v8_ab.jpg",
+            "promotion": 0,
+            "releaseYear": 2013,
+            "rtId": 771357397,
+            "runTime": 90,
+            "title": "American Drug War 2: Cannabis Destiny",
+            "titleType": "main",
+            "titles": [
+                "American Drug War 2: Cannabis Destiny",
+                "American"
+            ],
+            "tmsId": "MV004808410000",
+            "type": "movie",
+            "typeId": 1,
+            "updateDate": "2025-09-17T21:38:12.308Z",
+            "vanity": "american_drug_war_2_cannabis_destiny_2013"
+        },
+        {
+            "_highlightResult": {
+                "castCrew": {
+                    "crew": {
+                        "Director": [
+                            {
+                                "matchLevel": "none",
+                                "matchedWords": [],
+                                "value": "Marc Levin"
+                            }
+                        ]
+                    }
+                },
+                "genres": [
+                    {
+                        "matchLevel": "none",
+                        "matchedWords": [],
+                        "value": "Documentary"
+                    }
+                ],
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "war2"
+                    ],
+                    "value": "Back in the Hood: Gang <em>War 2</em>"
+                },
+                "vanity": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "war2"
+                    ],
+                    "value": "gang-wars-back-in-the-hood-gang-<em>war-2</em>"
+                }
+            },
+            "castCrew": {
+                "crew": {
+                    "Director": [
+                        "Marc Levin"
+                    ],
+                    "Executive Producer": [
+                        "Sheila Nevins"
+                    ],
+                    "Producer": [
+                        "Marc Levin",
+                        "Daphne Pinkerson",
+                        "Michael Skolnik"
+                    ]
+                }
+            },
+            "crew": [
+                {
+                    "emsId": "ef86def0-560d-3caf-8d56-7502cdaa0706",
+                    "name": "Marc Levin",
+                    "personId": "81132",
+                    "role": "Director"
+                },
+                {
+                    "emsId": "ef86def0-560d-3caf-8d56-7502cdaa0706",
+                    "name": "Marc Levin",
+                    "personId": "81132",
+                    "role": "Producer"
+                },
+                {
+                    "emsId": "b8876b8b-8685-3a6c-b143-e14143d02ad9",
+                    "name": "Daphne Pinkerson",
+                    "personId": "411567",
+                    "role": "Producer"
+                },
+                {
+                    "emsId": "3a01ea43-3c36-316b-a109-8d55ced97bdf",
+                    "name": "Michael Skolnik",
+                    "personId": "174271",
+                    "role": "Producer"
+                },
+                {
+                    "emsId": "4d242a04-742a-390e-b327-34bbba193d82",
+                    "name": "Sheila Nevins",
+                    "personId": "201479",
+                    "role": "Executive Producer"
+                },
+                {
+                    "emsId": "bc2e861e-85a1-3b0a-9c62-9f4d95149988",
+                    "name": "Matthew Akers",
+                    "personId": "484040",
+                    "role": "Cinematography"
+                },
+                {
+                    "emsId": "2f06c9ba-a005-39c4-b3c7-7915ece77041",
+                    "name": "Ken Eluto",
+                    "personId": "464557",
+                    "role": "Film Editing"
+                }
+            ],
+            "description": "Gang-related violence skyrockets in a sleepy town.",
+            "emsId": "7a39c130-0928-3cee-91ac-c20da6022c74",
+            "emsVersionId": "743f6d81-9767-3046-a1ee-17e946ccf87b",
+            "genres": [
+                "Documentary"
+            ],
+            "isEmsSearchable": 1,
+            "objectID": "743f6d81-9767-3046-a1ee-17e946ccf87b",
+            "pageViews_popularity": 1,
+            "posterImageUrl": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10386933_p_v7_aa.jpg",
+            "promotion": 0,
+            "releaseYear": 2004,
+            "rtId": 770842992,
+            "runTime": 81,
+            "title": "Back in the Hood: Gang War 2",
+            "titleType": "main",
+            "titles": [
+                "Back in the Hood: Gang War 2",
+                "Back in"
+            ],
+            "tmsId": "MV005330220000",
+            "type": "movie",
+            "typeId": 1,
+            "updateDate": "2025-09-08T21:33:55.508Z",
+            "vanity": "gang-wars-back-in-the-hood-gang-war-2"
+        }
+    ]
+}
